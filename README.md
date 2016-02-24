@@ -1,0 +1,1 @@
+# dynamicsCRM-wechat-example
